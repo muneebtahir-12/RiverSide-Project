@@ -193,7 +193,7 @@ text-transform: uppercase;
     .res-main-content{
         display: flex;
         flex-direction: column;
-         padding-top: 105px;
+         padding-top: 140px;
     }
 .res-destination,.res-arrival,.res-departure,.res-book{
             width:200px;
